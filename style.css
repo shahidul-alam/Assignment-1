@@ -32,6 +32,10 @@ body {
   font-size: 50px;
   font-family: "Bangers", cursive;
 }
+.header-2{
+font-size: 30px;
+  font-family: "Bangers", cursive;
+}
 .hColor {
   color: goldenrod;
 }
@@ -78,8 +82,17 @@ body {
   background-repeat: no-repeat;
   background-size: 300px;
   padding-right: 140px;
+  padding-bottom: 100px;
   background-position: right bottom;
 }
+.image-3{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    padding-left: 140px;
+    background-position: left top;
+}
+
 .last-head {
   background-color: black;
   padding: 100px;
@@ -95,4 +108,9 @@ body {
 .last-para{
     color: white;
     font-size:20px;
+}
+.form{
+    background-color:rgba(218, 72, 72, 0.171);
+    border-radius: 5px;
+    padding:50px 110px;
 }
