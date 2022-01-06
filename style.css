@@ -31,6 +31,11 @@ body {
 .header {
   font-size: 50px;
   font-family: "Bangers", cursive;
+  padding-left: 15px;
+}
+.header-bar{
+    border-left: 5px solid red;
+    border-radius: 7px;
 }
 .header-2{
 font-size: 30px;
